@@ -1,0 +1,53 @@
+q1:
+class numbers
+{
+public static void main(strings,args[])
+{
+int x;
+scan x= new scanner(system.in);
+if(x>0)
+{
+System.Out.Println("its positive");
+}
+else
+{
+System.Out.Println("its negative");
+}
+}
+q2:
+class numbers
+{
+public static void main(strings,args[])
+{
+int x,i;
+Scanner x = new Scanner(System.in);
+int i = x.nextInt();
+if(x/2==0)
+{
+System.Out.Println("number is even");
+}
+else
+{
+System.Out.Println("number is odd");
+}
+}
+q3:
+class alphabets
+{
+public static void (strings,args[])
+{
+str_vowel;
+Scanner vowel = new Scanner(System.in);
+int i = vowel.nextInt();
+if (vowel='a','e','i','o','u')
+{
+System.Out.Println("vowels")
+}
+else
+{
+System.	Out.Println(""consonents");
+}
+}
+
+q4:
+
